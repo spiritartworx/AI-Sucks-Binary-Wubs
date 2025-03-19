@@ -81,9 +81,7 @@ This project is designed to keep AI-assisted music production powerful yet contr
 
 ## License
 
-This project is open-sourced under the MIT License.
-
----
+This project is vehemently open sourced using a GNU GENERAL PUBLIC LICENSE, and being done so out if spite and protest.
 
 ## Author
 
@@ -94,7 +92,3 @@ Nickolas Anthony Susco II
 ## Copyright
 
 © Nickolas Anthony Susco II
-
----
-
-I hope this version meets your requirements. Let me know if you need any further adjustments.
